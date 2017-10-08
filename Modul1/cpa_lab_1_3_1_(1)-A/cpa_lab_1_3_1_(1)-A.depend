@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507221511 source:e:\study_practice2017\c++essential\cpa_lab_1_3_1_(1)-a\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
