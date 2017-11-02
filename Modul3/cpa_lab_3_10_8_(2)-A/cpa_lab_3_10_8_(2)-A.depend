@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507890368 source:e:\study_practice2017\c++essential\cpa_lab_3_10_8_(2)-a\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
