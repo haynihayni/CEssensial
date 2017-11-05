@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508941112 source:e:\study_practice2017\c++essential\cpa_lab_4_5_7_(5)-b\main.cpp
+	<iostream>
+	<string>
+	<regex>
+
