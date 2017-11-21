@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  cpa_lab_7_2_4_(1)-A.cpp
+e:\study_practice2017\c++essential\cpa_lab_7_2_4_(1)-a\cpa_lab_7_2_4_(1)-a\cpa_lab_7_2_4_(1)-a.cpp(30): warning C4101: 'r': unreferenced local variable
+  cpa_lab_7_2_4_(1)-A.vcxproj -> E:\Study_practice2017\C++Essential\cpa_lab_7_2_4_(1)-A\Debug\cpa_lab_7_2_4_(1)-A.exe
+  cpa_lab_7_2_4_(1)-A.vcxproj -> E:\Study_practice2017\C++Essential\cpa_lab_7_2_4_(1)-A\Debug\cpa_lab_7_2_4_(1)-A.pdb (Full PDB)
