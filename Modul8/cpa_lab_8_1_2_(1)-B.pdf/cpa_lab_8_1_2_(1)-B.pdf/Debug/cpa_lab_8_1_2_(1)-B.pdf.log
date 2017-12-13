@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  cpa_lab_8_1_2_(1)-B.pdf.cpp
+e:\study_practice2017\c++essential\modul8\cpa_lab_8_1_2_(1)-b.pdf\cpa_lab_8_1_2_(1)-b.pdf\cpa_lab_8_1_2_(1)-b.pdf.cpp(17): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\study_practice2017\c++essential\modul8\cpa_lab_8_1_2_(1)-b.pdf\cpa_lab_8_1_2_(1)-b.pdf\cpa_lab_8_1_2_(1)-b.pdf.cpp(32): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\study_practice2017\c++essential\modul8\cpa_lab_8_1_2_(1)-b.pdf\cpa_lab_8_1_2_(1)-b.pdf\cpa_lab_8_1_2_(1)-b.pdf.cpp(37): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\study_practice2017\c++essential\modul8\cpa_lab_8_1_2_(1)-b.pdf\cpa_lab_8_1_2_(1)-b.pdf\cpa_lab_8_1_2_(1)-b.pdf.cpp(42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\study_practice2017\c++essential\modul8\cpa_lab_8_1_2_(1)-b.pdf\cpa_lab_8_1_2_(1)-b.pdf\cpa_lab_8_1_2_(1)-b.pdf.cpp(47): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\study_practice2017\c++essential\modul8\cpa_lab_8_1_2_(1)-b.pdf\cpa_lab_8_1_2_(1)-b.pdf\cpa_lab_8_1_2_(1)-b.pdf.cpp(51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  cpa_lab_8_1_2_(1)-B.pdf.vcxproj -> E:\Study_practice2017\C++Essential\Modul8\cpa_lab_8_1_2_(1)-B.pdf\Debug\cpa_lab_8_1_2_(1)-B.pdf.exe
+  cpa_lab_8_1_2_(1)-B.pdf.vcxproj -> E:\Study_practice2017\C++Essential\Modul8\cpa_lab_8_1_2_(1)-B.pdf\Debug\cpa_lab_8_1_2_(1)-B.pdf.pdb (Full PDB)
