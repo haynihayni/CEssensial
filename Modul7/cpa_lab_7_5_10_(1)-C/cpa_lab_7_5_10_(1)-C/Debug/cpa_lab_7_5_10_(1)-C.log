@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  cpa_lab_7_5_10_(1)-C.cpp
+e:\study_practice2017\cessensial\modul7\cpa_lab_7_5_10_(1)-c\cpa_lab_7_5_10_(1)-c\cpa_lab_7_5_10_(1)-c.cpp(42): warning C4018: '<': signed/unsigned mismatch
+e:\study_practice2017\cessensial\modul7\cpa_lab_7_5_10_(1)-c\cpa_lab_7_5_10_(1)-c\cpa_lab_7_5_10_(1)-c.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  cpa_lab_7_5_10_(1)-C.vcxproj -> E:\Study_practice2017\CEssensial\Modul7\cpa_lab_7_5_10_(1)-C\Debug\cpa_lab_7_5_10_(1)-C.exe
+  cpa_lab_7_5_10_(1)-C.vcxproj -> E:\Study_practice2017\CEssensial\Modul7\cpa_lab_7_5_10_(1)-C\Debug\cpa_lab_7_5_10_(1)-C.pdb (Full PDB)
